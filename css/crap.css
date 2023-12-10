@@ -1340,7 +1340,8 @@ label {
 
 }
 
-@media (max-width: 520px) {
+
+@media (max-width: 400px) {
     .header-list {
         visibility: hidden;
     }
@@ -1349,7 +1350,7 @@ label {
         visibility: visible;
     }
     label .menu {
-        right: 250px;
+        right: 210px;
         top: -100px;
         z-index: 100;
         width: 100px;
@@ -1440,10 +1441,10 @@ label {
       }
       /* head */
       .header-text-main h1 {
-        font-size: 16px;
+        font-size: 13px;
       }
       .header-text-main h2 {
-        font-size: 16px;
+        font-size: 13px;
       }
       /* accessories */
       .section-accessories {
@@ -1460,15 +1461,15 @@ label {
         padding-top: 50px;
     }
     .card-one h1 {
-        font-size: 10px;
+        font-size: 8px;
     }
     .card-one h2 {
-        font-size: 10px;
+        font-size: 8px;
     }
     .img-width-videocard {
         margin-top: -5px;
-        width: 100px;
-        height: 100px;
+        width: 50px;
+        height: 50px;
     }
     .card-btn {
         padding: 2px 3px;
@@ -1482,8 +1483,8 @@ label {
     }
     .img-width-cpu {
         margin-top: 0;
-        width: 100px;
-        height: 100px;
+        width: 50px;
+        height: 50px;
     }
     .card-btn-two {
         padding: 2px 3px;
@@ -1497,8 +1498,8 @@ label {
     }
     .img-width-motherboard {
         margin-top: 0;
-        width: 100px;
-        height: 100px;
+        width: 50px;
+        height: 50px;
     }
     .card-btn-three {
         padding: 2px 3px;
@@ -1516,8 +1517,8 @@ label {
     }
     .img-width-ram {
         margin-top: 0;
-        width: 100px;
-        height: 100px;
+        width: 50px;
+        height: 50px;
     }
     .card-btn-for {
         padding: 2px 3px;
@@ -1531,8 +1532,8 @@ label {
     }
     .img-width-powerblock {
         margin-top: 0;
-        width: 100px;
-        height: 100px;
+        width: 50px;
+        height: 50px;
     }
     .card-btn-five {
         padding: 2px 3px;
@@ -1546,8 +1547,8 @@ label {
     }
     .img-width-case {
         margin-top: 0;
-        width: 100px;
-        height: 100px;
+        width: 50px;
+        height: 50px;
     }
     .card-btn-six {
         padding: 2px 3px;
@@ -1601,11 +1602,12 @@ label {
     .conf-one {
         border-radius: 150px;
         font-size: 15px;
-        margin-bottom: 20px;
+        margin-bottom: 0px;
+        width: 350px;
     }
     .finished-pc {
-        width: 150px;
-        height: 150px;
+        width: 50px;
+        height: 50px;
     }
     .conf-one-btn {
         padding: 3px 3px;
