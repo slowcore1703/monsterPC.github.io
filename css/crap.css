@@ -1451,7 +1451,7 @@ label {
         margin-top: -150px;
       }
       .header-section-main-text h1 {
-        font-size: 15px;
+        font-size: 12px;
       }
       .header-section-main-text img {
         width: 32px;
@@ -1461,10 +1461,10 @@ label {
         padding-top: 50px;
     }
     .card-one h1 {
-        font-size: 8px;
+        font-size: 6px;
     }
     .card-one h2 {
-        font-size: 8px;
+        font-size: 6px;
     }
     .img-width-videocard {
         margin-top: -5px;
@@ -1473,13 +1473,13 @@ label {
     }
     .card-btn {
         padding: 2px 3px;
-        font-size: 10px;
+        font-size: 7px;
     }
     .card-two h1 {
-        font-size: 10px;
+        font-size: 8px;
     }
     .card-two h2 {
-        font-size: 10px;
+        font-size: 8px;
     }
     .img-width-cpu {
         margin-top: 0;
@@ -1488,13 +1488,13 @@ label {
     }
     .card-btn-two {
         padding: 2px 3px;
-        font-size: 10px;
+        font-size: 7px;
     }
     .card-three h1 {
-        font-size: 10px;
+        font-size: 8px;
     }
     .card-three h2 {
-        font-size: 10px;
+        font-size: 8px;
     }
     .img-width-motherboard {
         margin-top: 0;
@@ -1503,17 +1503,17 @@ label {
     }
     .card-btn-three {
         padding: 2px 3px;
-        font-size: 10px;
+        font-size: 7px;
     }
     /* cards-sec-two */
     .section-cards-two {
         padding-top: 40px;
     }
     .card-for h1 {
-        font-size: 10px;
+        font-size: 8px;
     }
     .card-for h2 {
-        font-size: 10px;
+        font-size: 8px;
     }
     .img-width-ram {
         margin-top: 0;
@@ -1522,13 +1522,13 @@ label {
     }
     .card-btn-for {
         padding: 2px 3px;
-        font-size: 10px;
+        font-size: 7px;
     }
     .card-five h1 {
-        font-size: 10px;
+        font-size: 8px;
     }
     .card-five h2 {
-        font-size: 10px;
+        font-size: 8px;
     }
     .img-width-powerblock {
         margin-top: 0;
@@ -1537,13 +1537,13 @@ label {
     }
     .card-btn-five {
         padding: 2px 3px;
-        font-size: 10px;
+        font-size: 7px;
     }
     .card-six h1 {
-        font-size: 10px;
+        font-size: 8px;
     }
     .card-six h2 {
-        font-size: 10px;
+        font-size: 8px;
     }
     .img-width-case {
         margin-top: 0;
@@ -1552,15 +1552,15 @@ label {
     }
     .card-btn-six {
         padding: 2px 3px;
-        font-size: 10px;
+        font-size: 7px;
     }
     /* finished */
     .finished-assembly {
-        margin-top: -700px;
-        height: 360vh;
+        height: 460vh;
     }
     .finished-text {
         font-size: 15px;
+        margin-top: -50px;
     }
     .finished-text img {
         width: 52px;
@@ -1591,6 +1591,7 @@ label {
     /* finished */
     .finished-text {
         font-size: 10px;
+        margin-top: 100px;
     }
     .finished-text img {
         width: 32px;
@@ -1648,6 +1649,7 @@ label {
     /* about */
     .about-main-text {
         font-size: 11px;
+        margin-top: 5px;
     }
     .about-main-text img {
         width: 32px;
@@ -1686,7 +1688,7 @@ label {
     }
     /* cooperation */
     .cooperation-content {
-        padding-top: 1000px;
+        padding-top: 1300px;
     }
     .cooperation-text {
         font-size: 15px;
@@ -1697,13 +1699,25 @@ label {
     }
     /* footer */
     .footer-container h1 {
-        font-size: 14px;
+        font-size: 12px;
         text-transform: lowercase;
     }
     .footer-images img {
-        width: 23px;
-        height: 23px;
+        width: 16px;
+        height: 16px;
         margin-right: 5px;
+        margin-top: 5px;
+    }
+    .cooperation-email {
+        width: 300px;
+        margin-left: 40px;
+    }
+    .cooperation-email h1 {
+        padding-top: 10px;
+        color: #FFF;
+        text-transform: lowercase;
+        font-size: 15px;
+        font-family: 'Times New Roman', Times, serif;
     }
 }
 
